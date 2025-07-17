@@ -1,6 +1,4 @@
 # to-do-list-console
-# Console To-Do list
-
 A simple program for keeping tasks in the console.
 
 ## How to use
